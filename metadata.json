@@ -1,0 +1,8 @@
+{
+  "name": "XR Button",
+  "description": "A social media-like HUD for extended reality (XR) featuring real-time AI detection and digital likeness analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
